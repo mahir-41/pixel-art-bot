@@ -27,7 +27,7 @@ const Home = () => {
       <h1>Pixel Art Bot</h1>
       <img width="20%" src={url} />
       <br></br>
-      <label>Search URL </label>
+      <label>Image URL </label>
       <input value={url} onChange={(e) => handleUrlChange(e)}></input>
       <br></br>
       <br></br>
