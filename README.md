@@ -6,3 +6,5 @@ https://master--pixelartbot.netlify.app/home
 Instructions:
 Paste an image url in the URL field
 Once the image has loaded, hit generate
+
+API link: https://github.com/mahir-41/pyxapi
