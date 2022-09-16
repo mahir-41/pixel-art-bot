@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import axios from "axios";
+import { GoMarkGithub } from "react-icons/go";
 
 const Home = () => {
   const [url, setUrl] = useState("");
@@ -36,6 +37,7 @@ const Home = () => {
       {response == "done" ? (
         <img src={`https://pyxapi.herokuapp.com/getImage?${hash}`}/>
       ) : null}
+      <h1><a href = "https://github.com/mahir-41/pixel-art-bot" target="_blank" rel="noopener noreferrer"><GoMarkGithub/></a></h1>
     </>
   );
 };
