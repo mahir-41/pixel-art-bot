@@ -14,5 +14,6 @@ Troubleshooting:
 
 API link: https://github.com/mahir-41/pyxapi
 
-Demo:\n
+Demo:
+<br>
 <img width="547" alt="Screenshot 2022-09-19 at 12 17 22 AM" src="https://user-images.githubusercontent.com/28959987/190949159-270d54d2-9f31-4bf5-977a-6978dca1ea1a.png">
